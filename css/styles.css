@@ -15,7 +15,7 @@ body {
 #logo-img {
   background: url('../images/restaurant-logo_large.png') no-repeat;
   background-size: cover;
-  image-align: center;
+  image-align: left;
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 15px;
