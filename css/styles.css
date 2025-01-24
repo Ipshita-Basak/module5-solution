@@ -14,9 +14,9 @@ body {
 
 #logo-img {
   background: url('../images/restaurant-logo_large.jpg') no-repeat;
-  width: 100px;
-  height: 100px;
-  margin: 10px 15px 10px 0;
+  width: 150px;
+  height: 150px;
+  margin: 5px 5px 50px 5px;
 }
 
 .navbar-brand {
